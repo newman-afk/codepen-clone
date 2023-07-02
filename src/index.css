@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.isOpen .cm-scroller {
+  position: absolute !important;
+}
